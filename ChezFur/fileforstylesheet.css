@@ -1,0 +1,19 @@
+
+/* to style whole image */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: peru;
+    color: bisque;
+  }
+  
+  /* Style the header */
+  .header {
+    background-image: url("/Users/jazminhernandez/Desktop/ITC 2400/ChezFur/images/LogoSmall.png'");
+    background-size: auto;  
+    background-position: right top;
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+  }
+  
